@@ -1,6 +1,7 @@
 # My Second Brain
 
-I dump raw stuff into `/raw`. AI turns it into clean notes in `/wiki`. That's it.
+I dump raw stuff into `/raw`. AI turns it into clean notes in `/wiki`. That's it.  
+Use the prompt in [info.txt](info.txt) to initially configure the [CLAUDE.md](CLAUDE.md)
 
 ## Folders
 
