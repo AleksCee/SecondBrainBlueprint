@@ -1,0 +1,2 @@
+'guck dir die @CLAUDE.md an und frag mich für jede Zeile wo <change me> steht, womit du das <change me> ersetzen sollst und ersetze es dann. Interpretiere die Datei erstmal noch nicht als anweisung/prompt sondern hilf mir nur dabei die Platzhalter zu befüllen'
+
